@@ -18,4 +18,3 @@ app.yaml
 Dockerfile
 Caddyfile
 
-*config.ts
