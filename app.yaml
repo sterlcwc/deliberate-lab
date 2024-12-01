@@ -9,7 +9,7 @@ handlers:
 - url: /stylesheets
   static_dir: stylesheets
 
-- url: /favicon.png
+- url: /favicon.ico
   static_files: frontend/favicon.png
   upload: frontend/favicon.png
 
