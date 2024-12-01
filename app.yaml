@@ -9,6 +9,10 @@ handlers:
 - url: /stylesheets
   static_dir: stylesheets
 
+- url: /favicon.png
+  static_files: frontend/favicon.png
+  upload: frontend/favicon.png
+
 - url: /.*
   secure: always
   redirect_http_response_code: 301
